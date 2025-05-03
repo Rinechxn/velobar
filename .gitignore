@@ -1,0 +1,13 @@
+.ropeproject
+build
+dist
+
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+*.pdb
+*.egg-info
+*.egg
+
+*.user
