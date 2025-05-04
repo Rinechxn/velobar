@@ -8,6 +8,8 @@
 It uses **Qt QML** to create a modern, native UI with hardware acceleration and blur effects, making it perfect for creating sleek topbars for desktop applications.
 
 ---
+Download Alpha: [Windows 64 bit](https://github.com/Rinechxn/velobar/releases/download/0.1.0-alpha/Velobar_Qt6_WIN64.zip)
+---
 
 ## Features
 
