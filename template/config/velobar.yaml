@@ -1,0 +1,29 @@
+theme:
+  name: default
+  main: /main.qml
+
+resources:
+  paths:
+    - /assets/velobar/assets
+    - /assets/velobar/images
+    - /assets/velobar/icons
+    - /assets/velobar/fonts
+    - /assets/velobar/sounds
+    - /assets/velobar/styles
+  
+  fileformats:
+    - .png
+    - .ttf
+
+effects:
+  blur:
+    enabled: true
+    radius: 10
+
+base:
+  height: 30
+  width: 30
+  color: "transparent"
+  border:
+    color: "transparent"
+    width: 0
